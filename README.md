@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! 🙋🏽‍♂️
+
+I'm Abimael, a master's student in computational linguistics at the University of Washington.
+
+I am currently working on a tool that would help developmental psychologists cut down the time it takes to annotate child speech data. Previously, I was a lab manager at the University of Pennslyvania where I led eye-tracking studies on children's understanding of verb predicates.
 
 <!--
 **Abimaelh/Abimaelh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
