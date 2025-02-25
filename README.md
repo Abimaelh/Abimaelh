@@ -1,10 +1,15 @@
-## Hi there! 🙋🏽‍♂️
+### Hi there! 🙋🏽‍♂️
 
 I'm [**Abimael**](https://abimaelh.github.io/), a master's student in computational linguistics at the University of Washington.
 
 I'm currently developing a tool to help developmental psychologists streamline the annotation of child speech data. Previously, I managed a research lab at the University of Pennsylvania, leading eye-tracking studies on how children comprehend verb predicates.
 
-My interest lie in building language technologies that enhance accessibility — such as speech-based search tools, improved machine translation, and more natural text-to-speech systems.
+My interests lie in building language technologies that enhance accessibility — such as speech-based search tools, improved machine translation, and more natural text-to-speech systems.
+
+Outside of work, I love reading, working out, and learning new languages.
+
+### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/abimaelh/)
 <!--
 **Abimaelh/Abimaelh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
