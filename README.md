@@ -1,6 +1,6 @@
 ### Hi there! 🙋🏽‍♂️
 
-I'm [**Abimael**](https://abimaelh.github.io/), a recent M.S. graduate in Computational Linguistics (UW, Aug 2025) with hands-on experience in **AI and machine learning**.
+I'm **Abimael**, a recent M.S. graduate in Computational Linguistics (UW, Aug 2025) with hands-on experience in **AI and machine learning**.
 
 At **xAI** and **Meta**, I:
 
